@@ -5,4 +5,17 @@ body {
   justify-content: center;
   min-width: 360px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgrey;
+
 }
+
+.box{
+  position: relative;
+  width:400px;
+  top: 250px;
+  padding: 50px;
+  background-color: lightblue;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
